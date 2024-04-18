@@ -1,0 +1,20 @@
+{
+  "name": "book-directory-nodejs",
+  "version": "1.0.0",
+  "description": "Find full tutorial here 👉 [Youtube](https://youtu.be/46vs-YAQ7Rw)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "codemon": "^0.1.31-development",
+    "nodemon": "^2.0.4"
+  }
+}
